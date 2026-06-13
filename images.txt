@@ -5,4 +5,5 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # 这里开始写我真正要下载的镜像（不要加 #）
-ubuntu:latest
+adolfintel-speedtest:latest
+networkstatic-iperf3:latest
